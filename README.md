@@ -61,9 +61,15 @@ To demonstrate the importance of proper security logging, monitoring, and alerti
 
 ## Screenshot:
 
-<img width="1866" height="833" alt="image" src="https://github.com/user-attachments/assets/0f8c6a3c-89ad-4313-a748-366b2fca5fef" />
+<img width="932" height="410" alt="image" src="https://github.com/user-attachments/assets/f71b060d-553e-4d1c-ba72-a3fe661bbe50" /> Fig: All the Three(3) Monitoring configuration Enabled
 
-<img width="692" height="397" alt="image" src="https://github.com/user-attachments/assets/3b058c0c-712e-4b4d-b7b5-1e9b5fd960e7" />
+<img width="947" height="415" alt="image" src="https://github.com/user-attachments/assets/d1b0b99c-6de5-4972-9bd9-ca7f36caf6af" /> Fig: Disabled Security logging feature
+
+<img width="937" height="416" alt="image" src="https://github.com/user-attachments/assets/c78954e4-a98d-4ee8-b766-6eb845074d1c" /> Fig: Disabled Security Alerting Feature
+
+<img width="932" height="425" alt="image" src="https://github.com/user-attachments/assets/52c2b2ae-2118-42d6-a9e2-7e02f8d91f40" /> Fig: Disabled simulation of Incomplete Logs
+
+<img width="935" height="396" alt="image" src="https://github.com/user-attachments/assets/f8891090-d207-4681-96d8-e01afc30f401" /> Fig: Disabled Security Logging and Alerting Feature
 
 
 ## ⚠️ Disclaimer
