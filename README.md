@@ -58,6 +58,14 @@ It demonstrates how security logging and alerting failures can affect an organiz
 
 To demonstrate the importance of proper security logging, monitoring, and alerting in identifying and responding to suspicious activities.
 
+
+## Screenshot:
+
+<img width="1866" height="833" alt="image" src="https://github.com/user-attachments/assets/0f8c6a3c-89ad-4313-a748-366b2fca5fef" />
+
+<img width="692" height="397" alt="image" src="https://github.com/user-attachments/assets/3b058c0c-712e-4b4d-b7b5-1e9b5fd960e7" />
+
+
 ## ⚠️ Disclaimer
 
 This project is designed for educational and demonstration purposes only. All security events are simulated and do not involve real attacks or unauthorized access.
